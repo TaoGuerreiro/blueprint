@@ -1,0 +1,11 @@
+{
+  "build": {
+    "type": "nodejs",
+    "node_version": "20"
+  },
+  "deploy": {
+    "module": "frontend",
+    "build_command": "npm install && npm run build",
+    "start_command": "npm run preview"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "app_id": "app_d4cdf05d-09b3-4e03-a799-6fd6b7810fc7",
+      "org_id": "orga_b9885260-4b1f-42b9-879c-f273f69e5385",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_d4cdf05d-09b3-4e03-a799-6fd6b7810fc7.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_d4cdf05d-09b3-4e03-a799-6fd6b7810fc7.git",
+      "name": "blueprint-backend",
+      "alias": "blueprint-backend"
+    },
+    {
+      "app_id": "app_98408925-f5b1-4c49-851f-015b359caafc",
+      "org_id": "orga_b9885260-4b1f-42b9-879c-f273f69e5385",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_98408925-f5b1-4c49-851f-015b359caafc.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_98408925-f5b1-4c49-851f-015b359caafc.git",
+      "name": "blueprint-frontend",
+      "alias": "blueprint-frontend"
+    }
+  ]
+}

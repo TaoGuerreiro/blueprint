@@ -1,0 +1,10 @@
+{
+  "build": {
+    "type": "python",
+    "python_version": "3.11"
+  },
+  "deploy": {
+    "module": "app:app",
+    "app_dir": "."
+  }
+}
